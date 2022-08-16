@@ -2,7 +2,7 @@
 
 The objective of this project is to predict the wine quality using the wine properties provided in the data set.
 ## Data Set
-The Data set used in this project is taken from this [Red-Wine-Prediction]() file. 
+The Data set used in this project is taken from this [Red-Wine-Prediction](https://github.com/AztecAllure/Glowing/blob/main/AI/Red%20Wine%20Prediction/Red%20Wine%20Prediction.csv) file. 
 
 
 ### Variables
